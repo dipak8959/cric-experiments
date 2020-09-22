@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cric-experiments/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cric-experiments/static/js/main.cfa0ffb1.chunk.js",
+    "main.js.map": "/cric-experiments/static/js/main.cfa0ffb1.chunk.js.map",
+    "runtime-main.js": "/cric-experiments/static/js/runtime-main.c53390f6.js",
+    "runtime-main.js.map": "/cric-experiments/static/js/runtime-main.c53390f6.js.map",
+    "static/js/2.c7fc1303.chunk.js": "/cric-experiments/static/js/2.c7fc1303.chunk.js",
+    "static/js/2.c7fc1303.chunk.js.map": "/cric-experiments/static/js/2.c7fc1303.chunk.js.map",
+    "index.html": "/cric-experiments/index.html",
+    "precache-manifest.b63e771d9098d1a17eed37ed8c330c9b.js": "/cric-experiments/precache-manifest.b63e771d9098d1a17eed37ed8c330c9b.js",
+    "service-worker.js": "/cric-experiments/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/cric-experiments/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c7fc1303.chunk.js.LICENSE.txt": "/cric-experiments/static/js/2.c7fc1303.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cric-experiments/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c53390f6.js",
+    "static/js/2.c7fc1303.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.cfa0ffb1.chunk.js"
+  ]
+}
